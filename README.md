@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishwavihol
 
-<!--
-**vishwavihol83/vishwavihol83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer | 3rd Year CSE Student
 
-Here are some ideas to get you started:
+📍 Ahmedabad, Gujarat | 💼 Open for Freelance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, GitHub, VS Code
+- **Other:** DSA, API Development
+
+---
+
+### 💼 Featured Projects
+
+1. **[Portfolio Website](https://vishwavihol83.github.io)** 🌐
+   - Responsive portfolio with HTML, CSS, JavaScript
+   - GitHub Pages deployment
+   - Clean, modern design
+
+2. **[Appriqa Links](https://github.com/vishwavihol83/appriqa-links)** 🔗
+   - JavaScript project
+   - Link management tool
+
+---
+
+### 🎯 What I'm Learning
+- React advanced patterns
+
+- Node.js & Express backend
+- MongoDB & Database design
+- Full-stack web development
+
+---
+
+### 📫 Connect With Me
+- 🌐 **Portfolio:** [vishwavihol83.github.io](https://vishwavihol83.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/vishwavihol](https://linkedin.com/in/vishwavihol)
+- 📧 **Email:** vishwavihol@gmail.com
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwavihol83)
+
+---
+
+**Always open for collaboration and learning opportunities!** 🚀
