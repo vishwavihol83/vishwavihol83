@@ -17,14 +17,16 @@
 
 ### 💼 Featured Projects
 
-1. **[Portfolio Website](https://vishwavihol83.github.io)** 🌐
-   - Responsive portfolio with HTML, CSS, JavaScript
-   - GitHub Pages deployment
-   - Clean, modern design
 
-2. **[Appriqa Links](https://github.com/vishwavihol83/appriqa-links)** 🔗
+1. **[Appriqa Links](https://github.com/vishwavihol83/appriqa-links)** 🔗
    - JavaScript project
    - Link management tool
+  
+2. **[ComplyVision](https://github.com/vishwavihol83/ComplyVision-sih)**
+   - Legal Metrology compliance checking system
+   - OCR & OpenCV-based product label analysis
+   - Rule-based compliance verification
+   - PASS / FAIL / WARNING results with evidence
 
 ---
 
