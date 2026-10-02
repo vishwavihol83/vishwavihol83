@@ -38,7 +38,6 @@
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Portfolio:** [vishwavihol83.github.io](https://vishwavihol83.github.io)
 - 💼 **LinkedIn:** [linkedin.com/in/vishwavihol](https://linkedin.com/in/vishwavihol)
 - 📧 **Email:** vishwavihol@gmail.com
 
